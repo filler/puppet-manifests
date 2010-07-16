@@ -1,3 +1,4 @@
+import "ntp"
 import "sshd"
 import "sudo"
 import "syslog"
