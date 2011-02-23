@@ -1,7 +1,7 @@
 node basenode {
   $syslog_server = "logs.rhad.net"
   include munin-node
-  $munin_server = "^10\.10\.10\.23$"
+  $munin_server = "trend.rhad.net"
   include ntp
   include sshd
   include sudo
