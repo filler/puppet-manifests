@@ -1,3 +1,4 @@
+import "munin-node"
 import "ntp"
 import "sshd"
 import "sudo"
